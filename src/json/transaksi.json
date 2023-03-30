@@ -1,0 +1,173 @@
+{
+  "transaksi": [
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/icon-produk/ico-tabungan.svg",
+      "title": "Tabungan Emas",
+      "url": "#"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/icon-produk/icon-bayar-gadai.svg",
+      "title": "Bayar Gadai",
+      "url": "#"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/icon-produk/icon-bayar-cicilan.svg",
+      "title": "Bayar Cicilan",
+      "url": "#"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/icon-produk/ico-cicil-emas.svg",
+      "title": "Cicil Emas Batangan",
+      "url": "#"
+    },
+    {
+      "img": "/favicon/more-1.png",
+      "title": "Lihat Semua Produk",
+      "url": "#"
+    }
+  ],
+
+  "harga_beli": [
+    {
+      "id": 1,
+      "year": "23/03",
+      "price": 9860
+    },
+    {
+      "id": 2,
+      "year": "24/03",
+      "price": 9920
+    },
+    {
+      "id": 3,
+      "year": "25/03",
+      "price": 9780
+    },
+    {
+      "id": 4,
+      "year": "26/03",
+      "price": 9740
+    },
+    {
+      "id": 5,
+      "year": "27/03",
+      "price": 9700
+    },
+    {
+      "id": 6,
+      "year": "28/03",
+      "price": 9660
+    },
+    {
+      "id": 7,
+      "year": "29/03"
+    }
+  ],
+  "harga_jual": [
+    {
+      "id": 1,
+      "year": "23/03",
+      "price": 10200
+    },
+    {
+      "id": 2,
+      "year": "24/03",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "year": "25/03",
+      "price": 9600
+    },
+    {
+      "id": 4,
+      "year": "26/03",
+      "price": 8760
+    },
+    {
+      "id": 5,
+      "year": "27/03",
+      "price": 6270
+    },
+    {
+      "id": 6,
+      "year": "28/03",
+      "price": 7900
+    },
+    {
+      "id": 7,
+      "year": "29/03"
+    }
+  ],
+  "img_swipper": [
+    {
+      "id": 1,
+      "imgUrl": "/img/Gajian-Emas-Maret-April.jpeg",
+      "linkUrl": ""
+    },
+    {
+      "id": 2,
+      "imgUrl": "/img/Gempita-Cicil-Emas-1.jpeg",
+      "linkUrl": ""
+    },
+    {
+      "id": 3,
+      "imgUrl": "/img/Gempita-Pembiayaan-1.jpeg",
+      "linkUrl": ""
+    },
+    {
+      "id": 4,
+      "imgUrl": "/img/Gempita-Takeover-1.jpeg",
+      "linkUrl": ""
+    },
+    {
+      "id": 5,
+      "imgUrl": "/img/KAT-MPO.jpeg",
+      "linkUrl": ""
+    }
+  ],
+  "tautan": [
+    {
+      "title": "Tentang Pegadaian Digital",
+      "link": "https://digital.pegadaian.co.id/tentang-kami"
+    },
+    {
+      "title": "Promo",
+      "link": "https://digital.pegadaian.co.id/promo"
+    },
+    {
+      "title": "Pusat Bantuan",
+      "link": "https://digital.pegadaian.co.id/pusat-bantuan"
+    },
+    {
+      "title": "Syarat & Ketentuan",
+      "link": "https://digital.pegadaian.co.id/syarat-ketentuan"
+    },
+    {
+      "title": "Kebijakan Privasi",
+      "link": "https://digital.pegadaian.co.id/kebijakan-privasi"
+    },
+    {
+      "title": "Hubungi Kami",
+      "link": "https://digital.pegadaian.co.id/kontak-kami"
+    }
+  ],
+  "sosmed": [
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/facebook.svg",
+      "link": "https://facebook.com/shbtpegadaian"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/twitter.svg",
+      "link": "https://twitter.com/shbt_pegadaian"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/instagram.svg",
+      "link": "https://instagram.com/sahabatpegadaian"
+    },
+    {
+      "img": "https://digital.pegadaian.co.id/assets/image/youtube.svg",
+      "link": "https://youtube.com/PTPegadaianPersero_official"
+    }
+  ]
+}
